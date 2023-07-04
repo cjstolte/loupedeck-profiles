@@ -11,11 +11,14 @@ To use: find and download the appropriatly named `.lp5` Loupedeck Profile files 
 # List of profiles
 
 - Bitwarden Desktop App
+- Firefox
 
 # Screenshots
 
 - Bitwarden
-  - ![Bitwarden Loupedeck Profile](assets/Bitwarden.png)
+  - ![Bitwarden Loupedeck Profile Image](assets/Bitwarden.png)
+- Firefox
+  - ![Firefox Loupedeck Profile Image](assets/Firefox.png)
 
 # Buy me a Coffee
 
