@@ -12,6 +12,7 @@ To use: find and download the appropriatly named `.lp5` Loupedeck Profile files 
 
 - Bitwarden Desktop App
 - Firefox
+  - Note: Will want to update "Dashboard" Url in step 2 of multi-step action.
 
 # Screenshots
 
