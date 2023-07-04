@@ -14,6 +14,9 @@ To use: find and download the appropriatly named `.lp5` Loupedeck Profile files 
 
 # Screenshots
 
+- Bitwarden
+  - ![Bitwarden Loupedeck Profile](assets/Bitwarden.png)
+
 # Buy me a Coffee
 
 If you have found these profiles helpful and maybe saved you some time. Please consider clicking the image below to buy me a coffee or two. You generosity will help keep me caffeinated and encourage me to keep these updated.
