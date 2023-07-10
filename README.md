@@ -13,6 +13,10 @@ To use: find and download the appropriatly named `.lp5` Loupedeck Profile files 
 - Bitwarden Desktop App
 - Firefox
   - Note: Will want to update "Dashboard" Url in step 2 of multi-step action.
+    - This opens up my self hosted Heimdall application dashboard in the current tab vs opening a new tab.
+    - Not included in the exported profile, but I added as a second page some of my top visited websites as a quick launch button as well.
+- Microsoft Calculator
+  - Note Application File Path (Win 11 at least): C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_xxxxxxxx\CalculatorApp.exe
 
 # Screenshots
 
@@ -20,6 +24,8 @@ To use: find and download the appropriatly named `.lp5` Loupedeck Profile files 
   - ![Bitwarden Loupedeck Profile Image](assets/Bitwarden.png)
 - Firefox
   - ![Firefox Loupedeck Profile Image](assets/Firefox.png)
+- Microsoft Calculator
+  - ![Microsoft Calculator Profile Image](assets/MCalculator.png)
 
 # Buy me a Coffee
 
